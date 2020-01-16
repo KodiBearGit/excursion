@@ -2,6 +2,7 @@ body {
     background-color: black;
     color: white;
     text-align: center;
+    font-family: Verdana, sans-serif;
 }
 
 nav span a {
@@ -9,9 +10,6 @@ nav span a {
     font-size: 16px;
 }
 
-h1, h2 {
-    font-family: Verdana, sans-serif;
-}
 header h1 {
     font-weight: Normal;
     font-size: 50px;
